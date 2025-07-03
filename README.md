@@ -1,2 +1,2 @@
-![face detect](/)
-![image detect](/)
+![face detect](Screenshot%20(1).png)
+![image detect](Screenshot%20(2).png)
